@@ -25,13 +25,5 @@ I am a Full Stack Developer who has worked with HTML, CSS, Javascript, React, Mo
   </a>
 </p>
 
-[![Website](https://github.com/hugohp19/hugohp19/blob/main/images/WebPage.jpg)](http://www.hugoperezwebdev.com) 
-
-[![LinkedIn](https://github.com/hugohp19/hugohp19/blob/main/images/linkedin.png =50x50)](https://www.linkedin.com/in/hugo-perez-05400516a/)
-
-[![GitHub](https://github.com/hugohp19/hugohp19/blob/main/images/github.webp =50x50)](https://github.com/hugohp19)
-
-[![Instagram](https://github.com/hugohp19/hugohp19/blob/main/images/instagram.png =50x50)](https://www.instagram.com/thecodingrookie/)
-
 
 ![Praveen GitHub statistic](https://github-readme-stats.vercel.app/api?username=hugohp19&show_icons=true)
