@@ -1,4 +1,4 @@
-[![MastHead]('./images/Banner.png](http://www.hugoperezwebdev.com)
+[![MastHead](https://github.com/hugohp19/hugohp19/blob/main/images/Banner.png)](http://www.hugoperezwebdev.com)
 
 # Hello there! 👋🏻
 
@@ -8,13 +8,13 @@ I am a Full Stack Developer who has worked with HTML, CSS, Javascript, React, Mo
 
 ## Connect with Me 🤝🏻
 
-[![Website]('./images/7359a8e49a6fadcc653bd947f91df724.jpg =50x50')](http://www.hugoperezwebdev.com) 
+[![Website](https://github.com/hugohp19/hugohp19/blob/main/images/WebPage.jpg =50x50)](http://www.hugoperezwebdev.com) 
 
-[![LinkedIn](./images/linkedin-icon-blue.png =50x50)](https://www.linkedin.com/in/hugo-perez-05400516a/)
+[![LinkedIn](https://github.com/hugohp19/hugohp19/blob/main/images/linkedin.png =50x50)](https://www.linkedin.com/in/hugo-perez-05400516a/)
 
-[![GitHub](./images/Github-512.webp =50x50)](https://github.com/hugohp19)
+[![GitHub](https://github.com/hugohp19/hugohp19/blob/main/images/github.webp =50x50)](https://github.com/hugohp19)
 
-[![Instagram](./images/instagram-icon-suzem-limited-make-known-20.png =50x50)](https://www.instagram.com/thecodingrookie/)
+[![Instagram](https://github.com/hugohp19/hugohp19/blob/main/images/instagram.png =50x50)](https://www.instagram.com/thecodingrookie/)
 
 
 ![Praveen GitHub statistic](https://github-readme-stats.vercel.app/api?username=hugohp19&show_icons=true)
