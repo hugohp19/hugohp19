@@ -8,15 +8,15 @@ I am a Full Stack Developer who has worked with HTML, CSS, Javascript, React, Mo
 
 ## Connect with Me 🤝🏻
 <p>
-  <a href="http://www.hugoperezwebdev.com" title="Redirect to homepage">
+  <a href="http://www.hugoperezwebdev.com" title="Redirect to homepage" target="_blank">
   <img width='40px' src='https://github.com/hugohp19/hugohp19/blob/main/images/WebPage.png'>
   </a>
 
-  <a href="https://www.linkedin.com/in/hugo-perez-05400516a/" title="Redirect to homepage">
+  <a href="www.linkedin.com/in/hugoperez19" title="Redirect to homepage" target="_blank">
   <img width='40px' src='https://github.com/hugohp19/hugohp19/blob/main/images/linkedin.png'>
   </a>
 
-  <a href="https://www.instagram.com/thecodingrookie/" title="Redirect to homepage">
+  <a href="https://www.instagram.com/thecodingrookie/" title="Redirect to homepage" target="_blank">
   <img width='40px' src='https://github.com/hugohp19/hugohp19/blob/main/images/instagram.png'>
   </a>
 </p>
@@ -27,70 +27,70 @@ I am a Full Stack Developer who has worked with HTML, CSS, Javascript, React, Mo
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>HTML</center></b></span> 
 <img height=60px src="https://github.com/hugohp19/hugohp19/blob/main/images/HTML.svg"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>CSS</center></b></span> 
 <img height=60px src="https://github.com/hugohp19/hugohp19/blob/main/images/CSSLogo.svg"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>Javascript</center></b></span> 
-<img height=60px src="https://github.com/hugohp19/hugohp19/blob/main/images/JavaScriptLogo.svg"> 
+<img height=60px src="https://github.com/hugohp19/hugohp19/blob/main/images/javascriptLogo.svg"> 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>React</center></b></span> 
-<img height=65px src="https://github.com/hugohp19/hugohp19/blob/main/images/ReactLogo.svg"> 
+<img height=65px src="https://github.com/hugohp19/hugohp19/blob/main/images/reactLogo.svg"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>Express</center></b></span> 
 <img height=65px src="https://github.com/hugohp19/hugohp19/blob/main/images/expressLogo.svg"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>Node</center></b></span> 
 <img height=65px src="https://github.com/hugohp19/hugohp19/blob/main/images/nodeLogo.svg"> 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://github.com/hugohp19/hugohp19/blob/main/images/MongoDBLogo.svg"> 
+<img height=65px src="https://github.com/hugohp19/hugohp19/blob/main/images/mongoDBLogo.svg"> 
 </td>
 
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>MERN</center></b></span> 
 <img height=65px src="https://github.com/hugohp19/hugohp19/blob/main/images/mernStackLogo.svg"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>TypeScript</center></b></span> 
 <img height=65px src="https://github.com/hugohp19/hugohp19/blob/main/images/typescriptLogo.svg"> 
 </td>
 </tr>
 
 <tr>
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>Angular</center></b></span> 
 <img height=65px src="https://github.com/hugohp19/hugohp19/blob/main/images/angularLogo.svg"> 
 </td>
 
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>Java</center></b></span> 
 <img height=65px src="https://github.com/hugohp19/hugohp19/blob/main/images/javaLogo.svg"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="30%">
 <span><b><center>MySQL</center></b></span> 
 <img height=65px src="https://github.com/hugohp19/hugohp19/blob/main/images/mySQLLogo.svg"> 
 </td>
