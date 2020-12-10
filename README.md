@@ -99,4 +99,4 @@ I am a Full Stack Developer who has worked with HTML, CSS, Javascript, React, Mo
 </table>
 
 
-![Praveen GitHub statistic](https://github-readme-stats.vercel.app/api?username=hugohp19&show_icons=true)
+![GitHub statistic](https://github-readme-stats.vercel.app/api?username=hugohp19&show_icons=true)
