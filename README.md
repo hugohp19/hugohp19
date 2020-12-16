@@ -2,7 +2,7 @@
 
 # Hello there! 👋🏻
 
-I am Hugo Perez 🙋🏻‍♂️, a web developer, who loves creating web pages and applications. .
+I am Hugo Perez 🙋🏻‍♂️, a web developer, who loves creating web pages and applications.
 
 I am a Full Stack Developer who has worked with HTML, CSS, Javascript, React, MongoDB, Express, Node, as well as, TypeScript, Angular, MySQL, and Java.
 
